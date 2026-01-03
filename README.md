@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1>🎇 Diwali Sale Analysis</h1>
-  <p><b>Python Developer | Data Analyst | AI/ML Enthusiast</b></p>
+ 
 </div>
 
 <hr/>
