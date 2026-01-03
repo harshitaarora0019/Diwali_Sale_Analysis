@@ -1,36 +1,5 @@
 <!-- ===================== DIWALI SALE ANALYSIS README ===================== -->
 
-<style>
-  body {
-    font-family: Arial, sans-serif;
-  }
-  .box {
-    border: 1px solid #444;
-    border-radius: 10px;
-    padding: 15px;
-    margin: 15px 0;
-    background-color: #0d1117;
-    color: #e6edf3;
-  }
-  .box h3 {
-    margin-top: 0;
-    color: #58a6ff;
-  }
-  .files {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 15px;
-  }
-  .file-box {
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    padding: 12px;
-    background-color: #161b22;
-  }
-  .file-box b {
-    color: #f0f6fc;
-  }
-</style>
 
 <div align="center">
   <h1>🎇 Diwali Sale Analysis</h1>
