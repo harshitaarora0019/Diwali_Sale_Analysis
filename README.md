@@ -53,8 +53,8 @@ business decisions and festive marketing strategies.
     <td>Raw dataset containing customer and sales information</td>
   </tr>
   <tr>
-    <td>Diwali_Sales_Analysis.ipynb</td>
-    <td>Jupyter Notebook with data cleaning, EDA, and visualizations</td>
+    <td>notebook</td>
+    <td> Diwali_Sales_Analysis.ipynb Jupyter Notebook with data cleaning, EDA, and visualizations</td>
   </tr>
   <tr>
     <td>Analysis.png</td>
